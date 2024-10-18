@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599385990249",
+    "project_id": "autenticador-7816c",
+    "storage_bucket": "autenticador-7816c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599385990249:android:d9bd05ac434166f5fa6ef8",
+        "android_client_info": {
+          "package_name": "com.example.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599385990249-4ak704b8qk3b3mqkf2kkuptqunpqab29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autenticador",
+            "certificate_hash": "15055338fe3da4f43fb7b00eec66247cd97e446d"
+          }
+        },
+        {
+          "client_id": "599385990249-i7eatqrbhhdqekb1n05kcijnb4l86apb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxyEkzdzqaAK0xLzpKCPzhFFEnXZj59_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599385990249-i7eatqrbhhdqekb1n05kcijnb4l86apb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
